@@ -20,3 +20,4 @@
     printf("Occupancy rate: %.2f%%\n", occupancyRate);
 
 return 0;
+}
