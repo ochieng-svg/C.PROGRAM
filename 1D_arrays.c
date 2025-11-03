@@ -2,6 +2,7 @@
 NAME:Victor Baraka 
 REG NO:PA106/G/28775/25
 DESCRIPTION:1D array program
+*/                      
 	#include <stdio.h>
 
 int main() {
