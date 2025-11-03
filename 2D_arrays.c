@@ -1,4 +1,9 @@
-#include <stdio.h> int main (){
+/*
+NAME:Victor Baraka 
+REG NO:PA106/G/28775/25
+DESCRIPTION:program to show the rooms occupied in different floors
+*/
+	#include <stdio.h> int main (){
 	//declaration of variables
     int occupancy[5][10], occupied = 0;
     float occupancyRate;
