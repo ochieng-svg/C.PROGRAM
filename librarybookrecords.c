@@ -1,3 +1,9 @@
+
+/*
+NAME:Victor Baraka 
+REG NO:PA106/G/28775/25
+DESCRIPTION:program for a library book borrowing system
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
