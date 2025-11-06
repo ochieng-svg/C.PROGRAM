@@ -1,3 +1,8 @@
+/*
+NAME:Victor Baraka 
+REG NO:PA106/G/28775/25
+DESCRIPTION:program for sales transaction calculation
+*/
 #include <stdio.h>
 
 int main() {
