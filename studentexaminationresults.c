@@ -1,3 +1,8 @@
+/*
+NAME:Victor Baraka 
+REG NO:PA106/G/28775/25
+DESCRIPTION:program for storing university studets examination results 
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
